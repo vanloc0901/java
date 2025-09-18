@@ -1,13 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package Assignment10.OOP_Book;
-
-/**
- *
- * @author Administrator
- */
 import java.util.ArrayList;
 
 public class BookList {
@@ -91,4 +82,5 @@ public class BookList {
         System.out.println("Total TextBooks: " + textBookCount);
         System.out.println("Total ReferenceBooks: " + refBookCount);
     }
+
 }
